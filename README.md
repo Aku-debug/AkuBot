@@ -2,6 +2,8 @@
 
 **AkuBot**, Aim Lab oyununu otomatik başlatan, siyah hedefleri (RGB: 0, 0, 0) ekranın ortasında tespit ettiğinde tıklama yapan ve kullanıcı girişlerine göre davranan bir C++ uygulamasıdır.
 
+"Still under development, may not function correctly."
+
 ## 🔧 Özellikler
 
 - 🖱️ Otomatik mouse tıklama (siyah hedef varsa)
