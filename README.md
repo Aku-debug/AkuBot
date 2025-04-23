@@ -21,7 +21,7 @@
 
 ## 🚀 Nasıl Çalışır?
 
-1. Program başlatıldığında gizlice çalışır.
+1. Program başlatıldığında CMD ekranin da çalışır.
 2. Her 1ms'de bir ekranın ortasındaki pikselin rengi kontrol edilir.
 3. Renk siyaha yakınsa (±30 toleransla), mouse tıklaması gönderilir.
 4. Aim Lab yalnızca ön plandaysa çalışır.
